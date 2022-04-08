@@ -1,16 +1,15 @@
-## Welcome to GitHub Pages
+## Chào mừng đến với Trang GitHub
 
-You can use the [editor on GitHub](https://github.com/81CuongVn/81-1/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Bạn có thể sử dụng [trình chỉnh sửa trên GitHub] (https://github.com/81CuongVn/81-1/edit/main/docs/index.md) để duy trì và xem trước nội dung cho trang web của bạn trong tệp Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bất cứ khi nào bạn cam kết với kho lưu trữ này, GitHub Pages sẽ chạy [Jekyll] (https://jekyllrb.com/) để xây dựng lại các trang trong trang web của bạn, từ nội dung trong tệp Markdown của bạn.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown là một cú pháp nhẹ và dễ sử dụng để tạo kiểu cho bài viết của bạn. Nó bao gồm các quy ước cho
 
-```markdown
-Syntax highlighted code block
-
+`` đánh dấu
+Khối mã được đánh dấu cú pháp
 # Header 1
 ## Header 2
 ### Header 3
@@ -26,12 +25,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
+Để biết thêm chi tiết, hãy xem [Cú pháp viết và định dạng cơ bản] (https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic- viết-và-định dạng-cú pháp).
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/81CuongVn/81-1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Trang Pages của bạn sẽ sử dụng bố cục và kiểu từ chủ đề Jekyll mà bạn đã chọn trong [cài đặt kho lưu trữ] (https://github.com/81CuongVn/81-1/settings/pages). Tên của chủ đề này được lưu trong tệp cấu hình Jekyll `_config.yml`.
 
-### Support or Contact
+### Hỗ trợ hoặc Liên hệ
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Bạn gặp sự cố với Pages? Xem [tài liệu] của chúng tôi (https://docs.github.com/categories/github-pages-basics/) hoặc [liên hệ với bộ phận hỗ trợ] (https://support.github.com/contact) và chúng tôi sẽ giúp bạn khắc phục vấn đề.
