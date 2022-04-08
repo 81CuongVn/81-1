@@ -1,6 +1,6 @@
 ## Chào mừng đến với Trang GitHub
 
-Bạn có thể sử dụng [trình chỉnh sửa trên GitHub] (https://github.com/81CuongVn/81-1/edit/main/docs/index.md) để duy trì và xem trước nội dung cho trang web của bạn trong tệp Markdown.
+Bạn có thể sử dụng [editor on GitHub] (https://github.com/81CuongVn/81-1/edit/main/docs/index.md) để duy trì và xem trước nội dung cho trang web của bạn trong tệp Markdown.
 
 Bất cứ khi nào bạn cam kết với kho lưu trữ này, GitHub Pages sẽ chạy [Jekyll] (https://jekyllrb.com/) để xây dựng lại các trang trong trang web của bạn, từ nội dung trong tệp Markdown của bạn.
 
@@ -10,7 +10,8 @@ Markdown là một cú pháp nhẹ và dễ sử dụng để tạo kiểu cho b
 
 `` đánh dấu
 Khối mã được đánh dấu cú pháp
-# Header 1
+# Thông tin trang cá nhân facebook:
+(https://www.facebook.com/batmi.bimat.543)
 ## Header 2
 ### Header 3
 
