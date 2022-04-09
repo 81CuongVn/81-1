@@ -4,23 +4,20 @@ Bạn có thể sử dụng [editor on GitHub] (https://github.com/81CuongVn/81-
 
 Bất cứ khi nào bạn cam kết với kho lưu trữ này, GitHub Pages sẽ chạy [Jekyll] (https://jekyllrb.com/) để xây dựng lại các trang trong trang web của bạn, từ nội dung trong tệp Markdown của bạn.
 
-### Markdown
+### Tiểu sử dui dẻ
+Những điều về tôi thực sự rất ít nếu nói về tính cách và ngoại hình thì chắc hẳn đã biết rất nhiều nhưng đôi khi cũng rất bí hiểm so với những gì nó xảy đến với tôi,... Câu chuyện thực sự dài và tôi không muốn ai biết về nó khi còn là sinh viên tất cả những điều mà tôi xem chỉ là thứ bình thường xảy ra xung quanh tôi mà thôi ... Bye Bye ..
 
-Markdown là một cú pháp nhẹ và dễ sử dụng để tạo kiểu cho bài viết của bạn. Nó bao gồm các quy ước cho
-
-`` đánh dấu
-Khối mã được đánh dấu cú pháp
 # Thông tin trang cá nhân facebook:
 https://www.facebook.com/batmi.bimat.543
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+## Sở thích
+Soon coming !!!
+### Đồ ăn 
+ SoS sÔN S==N ...
+============$33$=========
+=        1 1 1  1       =
+=      1 1 4 3 2 1      =
+=     111111111111      =
+=========================
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
