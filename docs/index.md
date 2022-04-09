@@ -20,7 +20,7 @@ Còn khi ở nhà thì đây nha:
 **Còn nhiều mình sẽ update thêm !!** 
 _Hay za mệt mỏi xả xì trét nha_ 
 `_**.html` lưu để tạo trang dùng `html` nha.  
-[Link](url) and [Image](src)
+[Link](url) and [Image](https://www.facebook.com/photo/?fbid=1105559669932721&set=a.101256343696397)
 
 Để biết thêm chi tiết, hãy xem [Basic writing syntax and formatting](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 ### Đây là theme mình dùng nha 
