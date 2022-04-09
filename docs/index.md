@@ -12,7 +12,8 @@ Những điều về tôi thực sự rất ít nếu nói về tính cách và 
 ## Sở thích
 Soon coming !!!
 ### Đồ ăn 
-Thức ăn mình thích lên Đà Nẵng food nha [Da Nang Food Tour](https://danangfoodtour.com/)
+Thức ăn mình thích lên **Đà Nẵng food** nha [Da Nang Food Tour](https://danangfoodtour.com/)
+
 Còn khi ở nhà thì đây nha:
 **Gia Lai** [Gia Lai Food](https://gialaifood.com/) hihi đây nha !!!.
 
