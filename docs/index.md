@@ -23,10 +23,10 @@ Soon coming !!!
 [Link](url) and ![Image](src)
 ```
 
-Để biết thêm chi tiết, hãy xem [Basic writing syntax and formatting] (https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic- viết-và-định dạng-cú pháp).
+Để biết thêm chi tiết, hãy xem [Basic writing syntax and formatting](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 ### Jekyll Themes
 
-Trang Pages của bạn sẽ sử dụng bố cục và kiểu từ chủ đề Jekyll mà bạn đã chọn trong [install repository] (https://github.com/81CuongVn/81-1/settings/pages). Tên của chủ đề này được lưu trong tệp cấu hình Jekyll `_config.yml`.
+Trang Pages của bạn sẽ sử dụng bố cục và kiểu từ chủ đề Jekyll mà bạn đã chọn trong [install repository](https://github.com/81CuongVn/81-1/settings/pages). Tên của chủ đề này được lưu trong tệp cấu hình Jekyll `_config.yml`.
 
 ### Hỗ trợ hoặc Liên hệ
 
