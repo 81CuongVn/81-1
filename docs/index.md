@@ -7,10 +7,18 @@ Bất cứ khi nào bạn cam kết với kho lưu trữ này, GitHub Pages sẽ
 ### Tiểu sử dui dẻ
 Những điều về tôi thực sự rất ít nếu nói về tính cách và ngoại hình thì chắc hẳn đã biết rất nhiều nhưng đôi khi cũng rất bí hiểm so với những gì nó xảy đến với tôi,... Câu chuyện thực sự dài và tôi không muốn ai biết về nó khi còn là sinh viên tất cả những điều mà tôi xem chỉ là thứ bình thường xảy ra xung quanh tôi mà thôi ... Bye Bye ..
 
-# Thông tin trang cá nhân facebook:
+# Thông tin trang cá nhân :
 [Tô Thanh Cường](https://www.facebook.com/batmi.bimat.543)
+# Gmail cá nhân :
+contact gmail: [Tô Thanh Cường](alan45walker12@gmail.com)
+# Liên hệ phone :
+0365629897
 ## Sở thích
-Soon coming !!!
+Chơi thể thao, xem phim, nghe nhạc 
+
+Đi du lịch với mọi người, trải nghiệm những thắng cảnh xung quanh ta !!!
+
+Làm những công việc mình thực sự đam mê và không quên những thứ mà mình làm.
 ### Đồ ăn 
 Thức ăn mình thích lên **Đà Nẵng food** nha [Da Nang Food Tour](https://danangfoodtour.com/)
 
