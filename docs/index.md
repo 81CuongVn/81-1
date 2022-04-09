@@ -21,7 +21,6 @@ Soon coming !!!
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 Để biết thêm chi tiết, hãy xem [Basic writing syntax and formatting](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 ### Đây là theme mình dùng nha 
