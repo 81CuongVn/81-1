@@ -18,7 +18,7 @@ Còn khi ở nhà thì đây nha:
 **Hà Nội** [hanoifood](http://www.hanoifood.online/)
 **TP Hồ Chí Minh** [saigonfood](https://sgfoods.com.vn/)
 **Còn nhiều mình sẽ update thêm !!** 
-_hay za mệt mỏi xả xì trét nha_ 
+_ay za mệt mỏi xả xì trét nha_ 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
