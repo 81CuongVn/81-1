@@ -12,12 +12,9 @@ Những điều về tôi thực sự rất ít nếu nói về tính cách và 
 ## Sở thích
 Soon coming !!!
 ### Đồ ăn 
- SoS sÔN S==N ...
-============$33$=========
-=        1 1 1  1       =
-=      1 1 4 3 2 1      =
-=     111111111111      =
-=========================
+Thức ăn mình thích lên Đà Nẵng food nha [Da Nang Food Tour](https://danangfoodtour.com/)
+Còn khi ở nhà thì đây nha:
+Gia Lai [Gia Lai Food])(https://gialaifood.com/) hihi đây nha !!!
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
