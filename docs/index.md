@@ -11,7 +11,7 @@ Markdown là một cú pháp nhẹ và dễ sử dụng để tạo kiểu cho b
 `` đánh dấu
 Khối mã được đánh dấu cú pháp
 # Thông tin trang cá nhân facebook:
-(https://www.facebook.com/batmi.bimat.543)
+https://www.facebook.com/batmi.bimat.543
 ## Header 2
 ### Header 3
 
