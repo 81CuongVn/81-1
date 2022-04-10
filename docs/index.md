@@ -19,14 +19,14 @@ Những điều về tôi thực sự rất ít nếu nói về tính cách và 
 ## Những nền tảng mình tham gia: 
 [Github](https://github.com/) mình là người bình thường nhưng thích học code nên đây là nơi mình post source lên !!!
 
-         [Facebook](https://www.facebook.com/) tài khoản fb để kết nối với mọi người khi cần thiết 
+         [Facebook](https://www.facebook.com/) tài khoản fb để kết nối với mọi người khi cần thiết. 
          
-                             [Discord](https://discord.com/) có làm một số bot dis or nhiều thứ nữa [Discord server](https://discord.gg/7W9sSYYfcm)
-                                                                          Discord cá nhân để contact: John Week  ♌#8686
+                             [Discord](https://discord.com/) có làm một số bot dis or nhiều thứ nữa [Discord server](https://discord.gg/7W9sSYYfcm).
+                                                                          Discord cá nhân để contact: John Week  ♌#8686.
                              
-                                         [Spotify](https://spotify.com/) tên mình đây `John Week  ♌#8686`
+                                         [Spotify](https://spotify.com/) tên mình đây `John Week  ♌#8686`.
                                          
-                                                          [Netflix](https://www.netflix.com/) mình thích xem phim trên nền tảng này 
+                                                          [Netflix](https://www.netflix.com/) mình thích xem phim trên nền tảng này. 
 ### Thông tin trang cá nhân :
 [Tô Thanh Cường](https://www.facebook.com/batmi.bimat.543)
 ### Gmail cá nhân :
