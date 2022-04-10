@@ -16,7 +16,12 @@ Ngoài ra còn nhiều thứ nữa nhưng mình sẻ chia sẻ thêm khi mình c
 
 ### Tiểu sử dui dẻ
 Những điều về tôi thực sự rất ít nếu nói về tính cách và ngoại hình thì chắc hẳn đã biết rất nhiều nhưng đôi khi cũng rất bí hiểm so với những gì nó xảy đến với tôi,... Câu chuyện thực sự dài và tôi không muốn ai biết về nó khi còn là sinh viên tất cả những điều mà tôi xem chỉ là thứ bình thường xảy ra xung quanh tôi mà thôi ... Bye Bye .. 
-
+## Những nền tảng mình tham gia: 
+[github](https://github.com/)
+[Facebook](https://www.facebook.com/)
+[discord](https://discord.com/)
+[Spotify](https://spotify.com/)
+[netflix](https://www.netflix.com/)
 ### Thông tin trang cá nhân :
 [Tô Thanh Cường](https://www.facebook.com/batmi.bimat.543)
 ### Gmail cá nhân :
