@@ -10,7 +10,7 @@ Những điều về tôi thực sự rất ít nếu nói về tính cách và 
 ### Thông tin trang cá nhân :
 [Tô Thanh Cường](https://www.facebook.com/batmi.bimat.543)
 ### Gmail cá nhân :
-contact gmail: (alan45walker12@gmail.com)
+contact gmail: alan45walker12@gmail.com
 ### Liên hệ phone :
 0365629897
 ## Sở thích
