@@ -26,7 +26,7 @@ Những điều về tôi thực sự rất ít nếu nói về tính cách và 
                              
    [Spotify](https://spotify.com/) tên mình đây `John Week  ♌#8686`.
                                          
-    [Netflix](https://www.netflix.com/) mình thích xem phim trên nền tảng này. 
+   [Netflix](https://www.netflix.com/) mình thích xem phim trên nền tảng này. 
 ### Thông tin trang cá nhân :
 [Tô Thanh Cường](https://www.facebook.com/batmi.bimat.543)
 ### Gmail cá nhân :
