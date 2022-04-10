@@ -2,7 +2,7 @@
 
 ## Những điều mà mọi người sẽ biết về mình let's go
                                                
-### Đặc điểm ngoại hình, tính cách của mình :hihi~4: 
+### Đặc điểm ngoại hình, tính cách của mình 
 Là một chàng trai khiêm tốn có tích cách hiền lành và bí ẩn có rất nhiều thứ về anh chàng này cần tìm hiểu 
 Khi còn nhỏ anh có quá khứ như bao đứa trẻ khác được vui đùa bình thường nhưng bên trong lại là một thứ gì đó rất đáng thương, không phải nói điêu nhưng thật sự những điều mình chia sẻ là một phần tuổi thơ mình.
 
@@ -15,7 +15,7 @@ Về ngoại hình thì mình cũng bình thường cao 1m75 hơi khiêu tốn n
 Ngoài ra còn nhiều thứ nữa nhưng mình sẻ chia sẻ thêm khi mình có thời gian chào các bạn mong các bạn có sức khỏe thật tốt để giúp đỡ mọi người nha thanks !!!
 
 ### Tiểu sử dui dẻ
-Những điều về tôi thực sự rất ít nếu nói về tính cách và ngoại hình thì chắc hẳn đã biết rất nhiều nhưng đôi khi cũng rất bí hiểm so với những gì nó xảy đến với tôi,... Câu chuyện thực sự dài và tôi không muốn ai biết về nó khi còn là sinh viên tất cả những điều mà tôi xem chỉ là thứ bình thường xảy ra xung quanh tôi mà thôi ... Bye Bye ..
+Những điều về tôi thực sự rất ít nếu nói về tính cách và ngoại hình thì chắc hẳn đã biết rất nhiều nhưng đôi khi cũng rất bí hiểm so với những gì nó xảy đến với tôi,... Câu chuyện thực sự dài và tôi không muốn ai biết về nó khi còn là sinh viên tất cả những điều mà tôi xem chỉ là thứ bình thường xảy ra xung quanh tôi mà thôi ... Bye Bye .. 
 
 ### Thông tin trang cá nhân :
 [Tô Thanh Cường](https://www.facebook.com/batmi.bimat.543)
